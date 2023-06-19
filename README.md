@@ -36,7 +36,7 @@ You can configure ChatGP-TA to match your teaching style and preferences using t
 
 ## Installation
 
-ChatGP-TA is a plugin for GPT-4 and requires GPT-4 to run properly. It is recommended to get **ChatGPT Plus** to run ChatGP-TA. This will greatly decrease the chance of running out of tokens during worldbuilding.
+ChatGP-TA is a plugin for GPT-4 and requires GPT-4 to run properly. It is recommended to get **ChatGPT Plus** to run ChatGP-TA. This will greatly decrease the chance of running out of tokens during use.
 
 ## Contributing
 
