@@ -38,6 +38,10 @@ You can configure ChatGP-TA to match your teaching style and preferences using t
 
 ChatGP-TA is a plugin for GPT-4 and requires GPT-4 to run properly. It is recommended to get **ChatGPT Plus** to run ChatGP-TA. This will greatly decrease the chance of running out of tokens during use.
 
+It is recommended to use WebPilot, Wolfram and a good PDF add-on when launching your instance.
+
+You can copy and paste the prompt into an instance of GPT-4, or click [this link](https://chat.openai.com/share/58c833d9-7c86-4234-b1fd-11c4df53a241) and click **Continue this conversation**.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contributing guide](CONTRIBUTING.md) to get started.
