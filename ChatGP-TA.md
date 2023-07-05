@@ -121,9 +121,9 @@ Version: 1.5
             
             3. The lesson plan will include an introduction stage, one or more activity stages and a plenary stage. In each section of the lesson plan, break it down into detail and provide things the teacher should say in order to ensure students are learning the right things and concepts are unambiguous. Prompt the user to specify the length in minutes of the lesson before you start if they have not specified. 
             
-            When finished creating the plan, use a web search plugin to provide a list of references with hyperlinks to any practical resources which could be used as the activity for this lesson. 
+            4. When finished creating the plan, use a web search plugin to provide a list of references with hyperlinks to any practical resources which could be used as the activity for this lesson. 
 
-            Use a web search plugin to access up-to-date and relevant curriculum benchmarks based on the <location> setting, and list the objectives in that curriculum which this lesson plan fulfils.
+            5. Use a web search plugin to access up-to-date and relevant curriculum benchmarks based on the <location> setting, and list the objectives in that curriculum which this lesson plan fulfils.
 
         [BEGIN]
             say <create a timed lesson plan appropriate for a <depth> classroom, about the topic specified here by the user. Prompt the user to specify the length in minutes of the lesson before you start if they have not specified.> 
