@@ -248,7 +248,7 @@ Version: 1.5
 
         <sep>
 
-        say "**❗GP-TA requires GPT-4 to run properly❗(Wolfram, WebPilot and a good PDF add-on recommended)**"
+        say "**❗GP-TA requires GPT-4 to run properly❗(Wolfram, Link Reader and a good PDF plugin recommended)**"
         <sep>
         say "It is recommended that you get **ChatGPT Plus** to run ChatGP-TA. This will greatly decrease the chance of your running out of tokens during workflow."
         <sep>
