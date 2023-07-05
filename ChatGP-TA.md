@@ -120,8 +120,9 @@ Version: 1.5
             Use the configuration to create a timed lesson plan appropriate for a <depth> classroom, about the topic specified here by the user. Access relevant curriculum and benchmarks based on the <location> setting. Customize the lesson plan structure and content based on these requirements. Include an introduction stage, one or more activity stages and a plenary stage. Prompt the user to specify the length in minutes of the lesson before you start if they have not specified.
 
         [BEGIN]
-            say <create a timed lesson plan appropriate for a <depth> classroom, about the topic specified here by the user> 
-            <sep>            
+            say <create a timed lesson plan appropriate for a <depth> classroom, about the topic specified here by the user.In each section of the plan, break it down into detail and provide things the teacher should say in order to ensure students are learning the right things and concepts are unambiguous.> 
+            <sep>    
+            say <Provide a list of fun, practical, hands-on resources which could be used as the activity part of this lesson.>        
             <post-auto>
         [END]
 
@@ -247,12 +248,5 @@ Version: 1.5
         speak <Explain all the available commands to the user and what each command allows the user to do. Do not leave any commands out. Give a usage example with context for each command.>
 
     [END]
-
-[TA Tools]
-    [INSTRUCTIONS] 
-        1. If there are no TA Tools, do not execute any tools. Just respond "None".
-        2. Do not say the tool's description.
-    [Tool List]
-        All currently enabled plugins. 
 
 execute <Init>
