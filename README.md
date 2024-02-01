@@ -1,6 +1,6 @@
-# ChatGP-TA: Your Personalized AI Teaching Assistant
+# AI-TA: Your Personalized AI Teaching Assistant
 
-ChatGP-TA is a powerful AI Teaching Assistant designed to assist educators in managing their classrooms and enhancing their teaching experience. It's built on OpenAI's GPT-4 model and offers a range of features including lesson planning, test creation, behaviour management advice, and more.
+AI-TA is a powerful AI Teaching Assistant designed to assist educators in managing their classrooms and enhancing their teaching experience. It's built on OpenAI's GPT-4 model and offers a range of features including lesson planning, test creation, behaviour management advice, and more.
 
 ## Features
 
@@ -13,7 +13,7 @@ ChatGP-TA is a powerful AI Teaching Assistant designed to assist educators in ma
 
 ## Usage
 
-ChatGP-TA operates on a command-based system. Here are some of the commands you can use:
+AI-TA operates on a command-based system. Here are some of the commands you can use:
 
 - **/config**: Configure the AI's settings, including educational level, learning style, tone style, location, and language.
 - **/lesson [topic], [duration]**: Generate a lesson plan on a specified topic for a specified duration.
@@ -26,7 +26,7 @@ ChatGP-TA operates on a command-based system. Here are some of the commands you 
 
 ## Configuration
 
-You can configure ChatGP-TA to match your teaching style and preferences using the **/config** command. Here are the configuration options:
+You can configure AI-TA to match your teaching style and preferences using the **/config** command. Here are the configuration options:
 
 - **Level**: Set the educational level of your students.
 - **Learning Style**: Set the preferred learning style of your students.
@@ -36,7 +36,7 @@ You can configure ChatGP-TA to match your teaching style and preferences using t
 
 ## Installation
 
-ChatGP-TA is a plugin for GPT-4 and requires GPT-4 to run properly. It is recommended to get **ChatGPT Plus** to run ChatGP-TA. This will greatly decrease the chance of running out of tokens during use.
+AI-TA is a plugin for GPT-4 and requires GPT-4 to run properly. It is recommended to get **ChatGPT Plus** to run AI-TA. This will greatly decrease the chance of running out of tokens during use.
 
 It is recommended to use WebPilot, Wolfram and a good PDF add-on when launching your instance.
 
@@ -48,7 +48,7 @@ Contributions are welcome! Please read the [contributing guide](CONTRIBUTING.md)
 
 ## License
 
-ChatGP-TA is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](LICENSE).
+AI-TA is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](LICENSE).
 
 ## Support
 
@@ -56,4 +56,4 @@ If you encounter any issues or have any questions, please open an issue on this 
 
 ## Disclaimer
 
-ChatGP-TA is an AI and does not replace a qualified teacher or educational professional. It is designed to assist educators and should not be used as the sole educational resource. Always exercise professional judgement when using ChatGP-TA.
+AI-TA is an AI and does not replace a qualified teacher or educational professional. It is designed to assist educators and should not be used as the sole educational resource. Always exercise professional judgement when using AI-TA.
